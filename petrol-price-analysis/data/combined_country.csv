@@ -1,0 +1,14 @@
+Country,Region_x,Oil_Import_Pct,GDP_Impact_Pct,Inflation_Risk,Stock_Market_Change,Currency_Pressure,Policy_Response,Vulnerability,Population_M,ISO,Region_y,Currency,Before_War_Price,Mar7_Price,Unit,Amount_Change,Pct_Increase,Trend,Before_War_USD,Mar7_USD,Oil_Import_Dep,Price_Difference
+Pakistan,south asia,85,-1.8,Very High,-4.2,Severe,Emergency fuel price hike,Critical,240,PAK,South Asia,PKR,266.17,321.17,PKR/L,55.0,20.66,Increase,0.95,1.15,High,0.19999999999999996
+India,south asia,85,-1.2,High,-3.1,High,Strategic reserves released; prices frozen,High,1440,IND,South Asia,INR,94.77,94.77,INR/L,0.0,0.0,Stable,1.14,1.14,High,0.0
+Bangladesh,south asia,95,-2.0,Very High,-3.8,Severe,University closures to save electricity,Critical,175,BGD,South Asia,BDT,125.0,130.0,BDT/L,5.0,4.0,Increase,1.02,1.06,High,0.040000000000000036
+Sri Lanka,south asia,100,-2.5,Very High,-5.0,Severe,Rationing measures introduced,Critical,22,LKA,South Asia,LKR,365.0,370.0,LKR/L,5.0,1.37,Increase,1.2,1.22,High,0.020000000000000018
+Nepal,south asia,100,-1.5,High,-2.8,High,Price adjustment; subsidies for transport,High,30,NPL,South Asia,NPR,186.0,190.0,NPR/L,4.0,2.15,Increase,1.4,1.43,High,0.030000000000000027
+China,east asia,72,-0.8,Moderate,-2.5,Moderate,Strategic petroleum reserve drawdown,Moderate,1425,CHN,East Asia,USD,1.2,1.26,USD/L,0.06,5.0,Increase,1.2,1.26,High,0.06000000000000005
+Turkey,europe/asia,89,-1.6,Very High,-4.5,Severe,Emergency economic measures,High,86,TUR,Europe/Asia,TRY,41.0,43.0,TRY/L,2.0,4.88,Increase,1.13,1.19,High,0.06000000000000005
+Germany,europe,65,-0.6,Moderate,-3.5,Low,Energy diversification accelerated,Moderate,84,DEU,Europe,USD,1.82,1.89,USD/L,0.07,3.85,Increase,1.82,1.89,Medium,0.06999999999999984
+United Kingdom,europe,45,-0.5,Moderate,-2.9,Low,North Sea production increase planned,Moderate,68,GBR,Europe,USD,1.78,1.85,USD/L,0.07,3.93,Increase,1.78,1.85,Medium,0.07000000000000006
+USA,north america,5,-0.3,Moderate,-2.0,Low,SPR release; shale production ramp-up,Low,340,USA,North America,USD,0.85,0.9,USD/L,0.05,5.88,Increase,0.85,0.9,Low,0.050000000000000044
+Saudi Arabia,middle east,0,1.5,Low,-1.2,Low,Red Sea export rerouting,Low,37,SAU,Middle East,USD,0.62,0.66,USD/L,0.04,6.45,Increase,0.62,0.66,Low,0.040000000000000036
+UAE,middle east,0,0.8,Low,-1.5,Low,Production cuts due to export constraints,Low,10,ARE,Middle East,USD,0.65,0.68,USD/L,0.03,4.62,Increase,0.65,0.68,Low,0.030000000000000027
+Iran,middle east,0,-8.0,Extreme,-15.0,Extreme,Military retaliation; Hormuz closure,Critical,90,IRN,Middle East,USD,0.3,0.32,USD/L,0.02,6.67,Increase,0.3,0.32,Low,0.020000000000000018
